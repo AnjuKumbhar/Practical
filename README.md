@@ -1,0 +1,2 @@
+# Practical
+AI all Practical
